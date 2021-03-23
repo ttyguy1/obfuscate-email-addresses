@@ -1,8 +1,8 @@
 # Obfuscate Email Addresses
 
-Add javascript source script
+Download `email-obfuscator.js`, add it to your project, and add javascript script to your HTML head on the page you want to obfuscate an email address
 ```js
-<script src="/path/to/email-obfuscator.js"></script>
+<script defer src="/path/to/email-obfuscator.js"></script>
 ```
 
 Insert where you want to obfuscate an email address:
